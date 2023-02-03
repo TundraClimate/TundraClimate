@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**TundraClimate/TundraClimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "TundraClimate": {
+    "country": "Japan",
+    "age": null,
+    "gender": "male",
+    "domain": null,
+    "home_page": null,
+    "keyboard": "qwerty",
+    "favo_langs": [
+      "Java",
+      "Kotlin",
+      "Rust",
+      "TypeScript",
+      "C++"
+    ],
+    "favo_kaomozi": "(´･ω･`)",
+    "favo_type": "double",
+    "browser_to_use": "Mozilla/Fire Fox",
+    "git_hub": "https://github.com/TundraClimate",
+    "twitter": "https://twitter.com/Tundra_climate_"
+  }
+}
+```
