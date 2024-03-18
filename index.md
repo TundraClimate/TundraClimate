@@ -9,20 +9,20 @@ shrcにエイリアス書くのがめんどくさい人向けのスクリプト�
 
 ## deci
 
-2、10、16進数を相互変換するツール
+2、10、16進数を相互変換するツール  
 [Repository](https://github.com/TundraClimate/deci)
 
 ## markdownhelper
 
-NeoVim用のマークダウンのヘルパー
+NeoVim用のマークダウンのヘルパー  
 [Repository](https://github.com/TundraClimate/markdownhelper)
 
 ## hashcode
 
-Rust用のハッシュ化の一連の流れを簡易化したcrate
+Rust用のハッシュ化の一連の流れを簡易化したcrate  
 [Repository](https://github.com/TundraClimate/hashcode)
 
 ## Regex-Checker
 
-正規表現チェッカー
+正規表現チェッカー  
 [Repository](https://github.com/TundraClimate/Regex-Checker)
