@@ -18,7 +18,6 @@
     "favo_type": "double",
     "browser_to_use": "Mozilla/Fire Fox",
     "git_hub": "https://github.com/TundraClimate",
-    "twitter": "https://twitter.com/Tundra_climate_"
   }
 }
 ```
