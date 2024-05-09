@@ -31,3 +31,8 @@ Rust用のハッシュ化の一連の流れを簡易化したcrate
 
 正規表現の対話型テストツール  
 [Repository](https://github.com/TundraClimate/regmatch)
+
+## DiscordRPCEditor
+
+ゆりりのやつのパクリ  
+[Repository](https://github.com/TundraClimate/DiscordRPCEditor)
