@@ -36,3 +36,8 @@ Rust用のハッシュ化の一連の流れを簡易化したcrate
 
 ゆりりのやつのパクリ  
 [Repository](https://github.com/TundraClimate/DiscordRPCEditor)
+
+## diceutil
+
+なんかダイス振ったりできるcrate  
+[Repository](https://github.com/TundraClimate/diceutil)
