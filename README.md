@@ -7,17 +7,11 @@
     "domain": null,
     "home_page": null,
     "keyboard": "qwerty",
-    "favo_langs": [
-      "Java",
-      "Kotlin",
-      "Rust",
-      "TypeScript",
-      "C++"
-    ],
+    "favo_langs": ["Java", "Kotlin", "Rust", "TypeScript", "C++"],
     "favo_kaomozi": "(´･ω･`)",
     "favo_type": "double",
-    "browser_to_use": "Mozilla/Fire Fox",
-    "git_hub": "https://github.com/TundraClimate",
+    "browser_to_use": "Brave",
+    "git_hub": "https://github.com/TundraClimate"
   }
 }
 ```
