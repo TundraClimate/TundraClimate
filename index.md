@@ -41,3 +41,8 @@ Rust用のハッシュ化の一連の流れを簡易化したcrate
 
 なんかダイス振ったりできるcrate  
 [Repository](https://github.com/TundraClimate/diceutil)
+
+## emoji-commit
+
+絵文字コミットのテンプレ保存ツール  
+[Repository](https://github.com/TundraClimate/emoji-commit)
