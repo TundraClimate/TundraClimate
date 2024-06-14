@@ -46,3 +46,8 @@ Rust用のハッシュ化の一連の流れを簡易化したcrate
 
 絵文字コミットのテンプレ保存ツール  
 [Repository](https://github.com/TundraClimate/emoji-commit)
+
+## crossterm-keyreader
+
+crosstermのキーイベントをリッスンするクレート  
+[Repository](https://github.com/TundraClimate/crossterm-keyreader)
